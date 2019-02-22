@@ -1,6 +1,6 @@
 import requests
 
-
+password_url = 'https://github.com/vCritters/PyForce/blob/master/Password_Lists/password_list_1.txt'
 
 username = "admin"
 password = open().readline()
